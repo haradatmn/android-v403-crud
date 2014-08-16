@@ -27,6 +27,7 @@
 /.idea
 *.iml
 
-## Android Test files
-/test/
+## Android files
+local.properties
+/test
 
